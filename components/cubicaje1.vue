@@ -141,7 +141,6 @@
   </template>
   
   <script>
-  import video1 from "../assets/imagenes/Multimedia2.mp4";
   export default {
     name: "CubicajeP",
     data() {
