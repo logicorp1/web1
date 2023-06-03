@@ -91,7 +91,7 @@ export default {
   methods: {
     async log1() {
       let result = await axios
-        .post("https://pagina1.onrender.com/login", {
+        .post("https://python1-0y99.onrender.com/login", {
           username: this.username,
           password: this.password,
         })
