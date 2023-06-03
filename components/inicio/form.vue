@@ -53,7 +53,7 @@
      },
      methods: {
        async form() {
-         let result = await axios.post("https://pagina1.onrender.com/correo", {
+         let result = await axios.post("https://python1-0y99.onrender.com/correo", {
            correo: this.correo,
            nombre: this.nombre,
            texto: this.texto,
